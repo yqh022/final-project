@@ -27,7 +27,15 @@ Stride length and gait significantly affect the load on the Achilles tendon. An 
 In order to capture data pertinent to these three influencing factors, I have opted to employ a combination of stretch sensors, flex sensors, and distance sensors.This sensor fusion strategy aims to offer a holistic dataset, facilitating a nuanced understanding of the interplay between these factors and their collective influence on Achilles tendon health during different physical activities.
 
 ## week4
-I purchased two different stretch sensors and conducted separate connection tests for each. However, considering the comfort of wear and compatibility with the heel section, I found that neither of them met the expected criteria. In a meeting with my thesis advisor, I learned about relevant courses on digital knitting offered by CCI (Creative Computing Institute). Following an in-depth discussion with the technical support teacher, they suggested that I try using conductive yarn knitting. This type of knitting material can decrease the resistance value when stretched. In the CCI course, Agnes demonstrated how to integrate conductive yarn knitting to create a breathing light circuit, providing valuable assistance to my design. This experience not only introduced a new technical direction for my project but also offered innovative solutions to address design challenges.
+I purchased two different stretch sensors and conducted separate connection tests for each. However, considering the comfort of wear and compatibility with the heel section, I found that neither of them met the expected criteria. In a meeting with my thesis advisor, I learned about relevant courses on digital knitting offered by CCI. Following an in-depth discussion with the technical support teacher, they suggested that I try using conductive yarn knitting. This type of knitting material can decrease the resistance value when stretched. In the CCI course, Agnes demonstrated how to integrate conductive yarn knitting to create a breathing light circuit, providing valuable assistance to my design. This experience not only introduced a new technical direction for my project but also offered innovative solutions to address design challenges.
+
 ![IMG_9367](https://github.com/yqh022/final-project/assets/119873931/cf59205a-9c48-46a2-833e-ee22d579bbeb)
 ![IMG_9753](https://github.com/yqh022/final-project/assets/119873931/11dea43d-f738-41a8-8113-2fc499d07451)
+
+## week5
+When considering the output section, I was inspired by a design I had previously seen while browsing digital interaction designs. A design that interacts with music by stepping on the carpet in different positions. I decided to incorporate robotic arm painting as my output part, which can make a personalised motion image for the user when the sensor reads the motion state data of different people.I bought laser-cut parts, started assembling my robot arm, and tried to understand how the robot arm would move according to commands by controlling four servos.
+
+![IMG_9755](https://github.com/yqh022/final-project/assets/119873931/65758070-fc8e-4696-b907-aae8f85e2c2b)
+![IMG_9756](https://github.com/yqh022/final-project/assets/119873931/5d188343-fa03-41ec-8e5b-5448d8f3abec)
+![IMG_9757](https://github.com/yqh022/final-project/assets/119873931/fdd288a1-a08f-4e76-84da-babb8b2be4db)
 
