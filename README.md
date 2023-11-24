@@ -1,4 +1,4 @@
-# week1
+# Final project progression
 ## week1
 In conducting the brainstorming process, I set out to clarify my research question in order to choose a more focused direction for exploring wearable devices. By delving into the wearables-related resource sites and papers provided by my mentor, I worked to gain a deeper understanding of the foundational examples of wearable devices and how they interact.
 
@@ -26,4 +26,6 @@ Stride length and gait significantly affect the load on the Achilles tendon. An 
 
 In order to capture data pertinent to these three influencing factors, I have opted to employ a combination of stretch sensors, flex sensors, and distance sensors.This sensor fusion strategy aims to offer a holistic dataset, facilitating a nuanced understanding of the interplay between these factors and their collective influence on Achilles tendon health during different physical activities.
 
+## week4
+![IMG_9367](https://github.com/yqh022/final-project/assets/119873931/cf59205a-9c48-46a2-833e-ee22d579bbeb)
 
