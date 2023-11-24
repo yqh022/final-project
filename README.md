@@ -67,4 +67,5 @@ Subsequently, I conducted a series of experiments by adjusting the sensor positi
 ## week9
 After the test, the sensor was fixed on the strap and tested again. I found that the bending sensor was easy to contact poorly during the test, so I fixed and welded the sensor twice.
 ![IMG_9769](https://github.com/yqh022/final-project/assets/119873931/a657c6b4-d847-4cb9-a240-e82c5670ae52)
-![IMG_9769](https://github.com/yqh022/final-project/assets/119873931/9f90abdc-dd63-4859-88ee-917ea85d5349)
+![IMG_9768](https://github.com/yqh022/final-project/assets/119873931/6493e998-b82d-4f60-9dda-f63a95b7f9fa)
+
