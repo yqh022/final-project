@@ -55,3 +55,11 @@ However, I encountered challenges while using the ESP32. The Arduino board conne
 
 ## week8
 Eventually I managed to receive data by replacing the Arduino board with an Arduino 2560. Since the Arudino has only one Rx and Tx to receive and send serial data, there is no way to send signals to the servo at the same time as receiving them.
+
+![IMG_9766](https://github.com/yqh022/final-project/assets/119873931/88a2a495-6720-4c37-944b-b725b8e00aad)
+
+Next, I proceeded to connect all the sensors and monitored the data transmission through the four ports on the computer.  At this stage, my focus was on assessing how the sensor placement affected the recognition performance.
+
+Firstly, I ensured that all sensors were correctly connected to their respective ports and monitored their data transmission through the computer.  This involved meticulous debugging and testing to ensure the sensors operated correctly and accurately transmitted information.  Throughout the connection process, I closely monitored the real-time data from each sensor to ensure they communicated as expected.
+
+Subsequently, I conducted a series of experiments by adjusting the sensor positions to assess their impact on motion recognition.  This involved placing sensors at different angles and orientations to simulate diverse motion scenarios that might be encountered in real-world usage.  Through these tests, I gained a more comprehensive understanding of how sensors performed under various conditions, enabling further optimization of the system's design.
