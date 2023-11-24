@@ -22,3 +22,8 @@ The bending angle of the knee joint plays a crucial role in movement, particular
 
 Stride Length and Gait:
 Stride length and gait significantly affect the load on the Achilles tendon. An excessively large stride or improper step length may increase tension on the Achilles tendon, while a shorter stride weakens the impact force generated at the initial foot contact, especially during movements requiring rapid acceleration or deceleration (3).
+
+
+In order to capture data pertinent to these three influencing factors, I have opted to employ a combination of stretch sensors, flex sensors, and distance sensors.This sensor fusion strategy aims to offer a holistic dataset, facilitating a nuanced understanding of the interplay between these factors and their collective influence on Achilles tendon health during different physical activities.
+
+
