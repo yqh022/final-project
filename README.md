@@ -33,7 +33,7 @@ I purchased two different stretch sensors and conducted separate connection test
 ![IMG_9753](https://github.com/yqh022/final-project/assets/119873931/11dea43d-f738-41a8-8113-2fc499d07451)
 
 ## week5
-When considering the output section, I was inspired by a design I had previously seen while browsing digital interaction designs. A design that interacts with music by stepping on the carpet in different positions. I decided to incorporate robotic arm painting as my output part, which can make a personalised motion image for the user when the sensor reads the motion state data of different people.I bought laser-cut parts, started assembling my robot arm, and tried to understand how the robot arm would move according to commands by controlling four servos.
+When considering the output section, I was inspired by a design I had previously seen while browsing digital interaction designs. A design that interacts with music by stepping on the carpet in different positions. I decided to incorporate robotic arm painting as my output part, which can make a personalised motion image for the user when the sensor reads the motion state data of different people.I bought laser-cut parts, started assembling my robot arm, and tried to understand how the robot arm would move according to commands by controlling four servos.I spliced the arm and adjusted all four servos to the initialised angle.
 
 ![IMG_9755](https://github.com/yqh022/final-project/assets/119873931/65758070-fc8e-4696-b907-aae8f85e2c2b)
 ![IMG_9756](https://github.com/yqh022/final-project/assets/119873931/5d188343-fa03-41ec-8e5b-5448d8f3abec)
