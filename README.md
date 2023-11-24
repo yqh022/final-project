@@ -85,3 +85,10 @@ In the data acquisition phase, it is crucial to ensure that the speed of sensor 
 
 So I set the angle of the forearm servo to the mapped value. Set the angle of the base servo to 0+40. Increase the angle of the base servo gradually through a loop to achieve smooth motion. In order to obtain different mapping surfaces according to the transmission of different values, it is necessary to convert the data type, extract floating point numbers from the received string, and use the map function to perform numerical mapping in order to adapt to the range of servo motion.
 
+## week12
+Test the program, invite five users to test and interview, understand the improvement suggestions, and complete the content of the discussion part of the Dissertation.
+![IMG_9752 2](https://github.com/yqh022/final-project/assets/119873931/7dbb98aa-b9e4-440b-9a3f-2046cba48463)
+![IMG_9751 2](https://github.com/yqh022/final-project/assets/119873931/d6dd6440-f068-4ce6-8938-4522201f4406)
+
+## week13
+Continue to complete the remaining part of the test and Dissertation, try to solve the lag problem in the signal transmission process, understand the limitations of the program, and determine the future research direction
