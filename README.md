@@ -5,6 +5,7 @@ In conducting the brainstorming process, I set out to clarify my research questi
 During this phase, I paid particular attention to gathering information about similar products and technologies in order to gain a comprehensive understanding of the current application scenarios and prospective needs of wearable devices in different fields. By analysing this information, I was able to get a clearer grasp of market trends and user needs, and thus find a more innovative and practical direction in my research.
 
 This stage of work has given me a deeper understanding of the field of wearable devices, providing a solid foundation for subsequent research and design work, and making useful contributions to future projects.
+
 ## week2
 My focus is on addressing the often overlooked issues related to injuries arising from casual sports activities. Through extensive literature research, I have chosen to specifically concentrate on Achilles tendon injuries, a common tendon injury in leisure sports. Achilles tendon injuries are not only prevalent but also have a prolonged recovery time, potentially impacting subsequent activities.
 
