@@ -39,3 +39,9 @@ When considering the output section, I was inspired by a design I had previously
 ![IMG_9756](https://github.com/yqh022/final-project/assets/119873931/5d188343-fa03-41ec-8e5b-5448d8f3abec)
 ![IMG_9757](https://github.com/yqh022/final-project/assets/119873931/fdd288a1-a08f-4e76-84da-babb8b2be4db)
 
+## week6
+I scheduled a course on conductive yarn knitting and created three different stretch sensors by varying the number of strands in the yarn, specifically designed to wrap around the heel section. After conducting tests, I chose the most sensitive and stable sensor among them as the optimal choice for my project. This process allowed me to fine-tune the design and ensure that the selected stretch sensor meets the desired criteria for sensitivity and stability during stretching.
+
+![IMG_9759](https://github.com/yqh022/final-project/assets/119873931/6874a43d-160f-467d-b469-8f678c05440b)
+![IMG_9760](https://github.com/yqh022/final-project/assets/119873931/e643cfc5-17d0-42b5-9872-6b2ebb29a487)
+![IMG_9761](https://github.com/yqh022/final-project/assets/119873931/d38f0791-223d-4080-9d5f-2862051abaf9)
