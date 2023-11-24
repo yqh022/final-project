@@ -45,3 +45,10 @@ I scheduled a course on conductive yarn knitting and created three different str
 ![IMG_9759](https://github.com/yqh022/final-project/assets/119873931/6874a43d-160f-467d-b469-8f678c05440b)
 ![IMG_9760](https://github.com/yqh022/final-project/assets/119873931/e643cfc5-17d0-42b5-9872-6b2ebb29a487)
 ![IMG_9761](https://github.com/yqh022/final-project/assets/119873931/d38f0791-223d-4080-9d5f-2862051abaf9)
+
+## week7
+Due to the necessity of wirelessly transmitting data from the wearable device to control an Arduino board that operates a robotic arm for drawing, I explored wireless communication options. Following Matt's recommendation, I discovered that the ESP32 is capable of transmitting data through WiFi. After thorough research, I decided to implement a system with two ESP32 modules. The first ESP32 processes data received via a serial port and transmits it over WiFi. The second ESP32 receives the signal, and its processing unit analyzes the data, generating control signals. These control signals are then transmitted through a hardware connection to an Arduino development board, guiding the movement of servos and directing the robotic arm to execute the drawing. This approach allows for efficient and wireless communication between the wearable device and the drawing mechanism.
+
+![IMG_9762](https://github.com/yqh022/final-project/assets/119873931/4456cbb4-2e84-4f5b-b723-30765dd09bab)
+
+However, I encountered challenges while using the ESP32. The Arduino board connected to the receiving sensor was successfully collecting and transmitting data, the first ESP32 was capable of receiving and sending the data to another ESP32. Still, the second Arduino board was unable to receive the transmitted data. In consultation with my advisor, we conducted thorough tests on both the code and hardware, finding no apparent issues. Faced with this challenge, the suggestion was made to replace the WiFi-based communication with a Bluetooth module. Considering that the servo motors of the robotic arm operate on a 5V working voltage, the alternative solution involved attempting to replace the receiving Arduino board to resolve the compatibility issue.
