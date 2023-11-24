@@ -1,4 +1,4 @@
-# Final project progression
+![IMG_9769](https://github.com/yqh022/final-project/assets/119873931/06e2fc7c-741d-4fe7-b3f6-ebccde301724)# Final project progression
 ## week1
 In conducting the brainstorming process, I set out to clarify my research question in order to choose a more focused direction for exploring wearable devices. By delving into the wearables-related resource sites and papers provided by my mentor, I worked to gain a deeper understanding of the foundational examples of wearable devices and how they interact.
 
@@ -63,3 +63,8 @@ Next, I proceeded to connect all the sensors and monitored the data transmission
 Firstly, I ensured that all sensors were correctly connected to their respective ports and monitored their data transmission through the computer.  This involved meticulous debugging and testing to ensure the sensors operated correctly and accurately transmitted information.  Throughout the connection process, I closely monitored the real-time data from each sensor to ensure they communicated as expected.
 
 Subsequently, I conducted a series of experiments by adjusting the sensor positions to assess their impact on motion recognition.  This involved placing sensors at different angles and orientations to simulate diverse motion scenarios that might be encountered in real-world usage.  Through these tests, I gained a more comprehensive understanding of how sensors performed under various conditions, enabling further optimization of the system's design.
+
+## week9
+After the test, the sensor was fixed on the strap and tested again. I found that the bending sensor was easy to contact poorly during the test, so I fixed and welded the sensor twice.
+![IMG_9769](https://github.com/yqh022/final-project/assets/119873931/a657c6b4-d847-4cb9-a240-e82c5670ae52)
+![IMG_9769](https://github.com/yqh022/final-project/assets/119873931/9f90abdc-dd63-4859-88ee-917ea85d5349)
