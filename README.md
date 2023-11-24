@@ -52,3 +52,5 @@ Due to the necessity of wirelessly transmitting data from the wearable device to
 ![IMG_9762](https://github.com/yqh022/final-project/assets/119873931/4456cbb4-2e84-4f5b-b723-30765dd09bab)
 
 However, I encountered challenges while using the ESP32. The Arduino board connected to the receiving sensor was successfully collecting and transmitting data, the first ESP32 was capable of receiving and sending the data to another ESP32. Still, the second Arduino board was unable to receive the transmitted data. In consultation with my advisor, we conducted thorough tests on both the code and hardware, finding no apparent issues. Faced with this challenge, the suggestion was made to replace the WiFi-based communication with a Bluetooth module. Considering that the servo motors of the robotic arm operate on a 5V working voltage, the alternative solution involved attempting to replace the receiving Arduino board to resolve the compatibility issue.
+
+## week8
