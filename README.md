@@ -1,4 +1,4 @@
-![IMG_9769](https://github.com/yqh022/final-project/assets/119873931/06e2fc7c-741d-4fe7-b3f6-ebccde301724)# Final project progression
+# Final project progression
 ## week1
 In conducting the brainstorming process, I set out to clarify my research question in order to choose a more focused direction for exploring wearable devices. By delving into the wearables-related resource sites and papers provided by my mentor, I worked to gain a deeper understanding of the foundational examples of wearable devices and how they interact.
 
@@ -65,7 +65,23 @@ Firstly, I ensured that all sensors were correctly connected to their respective
 Subsequently, I conducted a series of experiments by adjusting the sensor positions to assess their impact on motion recognition.  This involved placing sensors at different angles and orientations to simulate diverse motion scenarios that might be encountered in real-world usage.  Through these tests, I gained a more comprehensive understanding of how sensors performed under various conditions, enabling further optimization of the system's design.
 
 ## week9
-After the test, the sensor was fixed on the strap and tested again. I found that the bending sensor was easy to contact poorly during the test, so I fixed and welded the sensor twice.
+After the test, the sensor was fixed on the strap and tested again. I found that the bending sensor was easy to contact poorly during the test, so I fixed and welded the sensor twice.Complete the writing of the literature review part of the Dissertation.
 ![IMG_9769](https://github.com/yqh022/final-project/assets/119873931/a657c6b4-d847-4cb9-a240-e82c5670ae52)
 ![IMG_9768](https://github.com/yqh022/final-project/assets/119873931/6493e998-b82d-4f60-9dda-f63a95b7f9fa)
+
+## week10
+Testing the information transmission between the wearable device and the robotic arm drawing component revealed a limitation in the approach of only considering the maximum readings during a certain period of motion. It was observed that relying solely on the maximum values within a timeframe did not effectively monitor the continuous state of the Achilles tendon over an extended duration. This is particularly crucial as overuse is one of the contributing factors to Achilles tendon injuries.
+
+To address this issue, further exploration and refinement of the data collection and interpretation methods were undertaken. A more dynamic and continuous assessment approach was considered to capture nuanced changes in the Achilles tendon state during prolonged movement. This refinement aimed to enhance the device's capability to detect patterns associated with overuse, providing a more comprehensive understanding of the user's physiological condition during various physical activities.
+
+Complete the methodology part of the Dissertation
+
+## week11
+Therefore, in the subsequent iterations of the design, my research proposed a method to adjust the size of the graphs drawn by the manipulator according to different values of signal conduction . It adjusts the size of the graphs drawn by the manipulator according to different values of signal conduction, so as to observe the user's motion state more intuitively.
+
+To achieve the requirement of controlling the manipulator to draw different sizes and patterns based on sensor data, two main issues need to be addressed. Firstly, the speed of partial data acquisition of the sensor is too fast, and at the same time the speed delay of transmission to ESP32 may cause data loss. Secondly, at the receiving end, the sensor type needs to be identified and the information is transmitted to the control board controlling the servo according to different numbers.
+
+In the data acquisition phase, it is crucial to ensure that the speed of sensor data acquisition matches the processing capacity of the system. If the data collection speed is too fast, it may cause buffer overflow or transmission delay. Consider using appropriate data filtering, reducing sampling frequency, and other methods to ensure the timeliness and completeness of the data. When data is received by ESP32, a specific data format is used to achieve it. Once the sensor type is identified, the system can parse the data accordingly and take appropriate control strategies.
+
+So I set the angle of the forearm servo to the mapped value. Set the angle of the base servo to 0+40. Increase the angle of the base servo gradually through a loop to achieve smooth motion. In order to obtain different mapping surfaces according to the transmission of different values, it is necessary to convert the data type, extract floating point numbers from the received string, and use the map function to perform numerical mapping in order to adapt to the range of servo motion.
 
